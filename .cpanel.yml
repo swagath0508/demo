@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/mmloqwte/repositories/demo
+    - export DEPLOYPATH=/home2/mmloqwte/public_html
     - /bin/cp -r * $DEPLOYPATH
 
